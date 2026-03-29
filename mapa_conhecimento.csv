@@ -1,0 +1,251 @@
+Sintoma1,Sintoma2,Doenca_Associada
+dor no peito,aperto no tórax,Infarto do Miocárdio
+dor irradiando para o braço esquerdo,pressão no peito,Infarto do Miocárdio
+dor no peito ao esforço,sudorese fria,Infarto do Miocárdio
+aperto no tórax,náusea,Infarto do Miocárdio
+dor no peito,falta de ar,Infarto do Miocárdio
+queimação no peito,dor no maxilar,Infarto do Miocárdio
+dor intensa no peito,palidez,Infarto do Miocárdio
+pressão no esterno,dor no ombro esquerdo,Infarto do Miocárdio
+aperto no tórax,tontura,Infarto do Miocárdio
+dor no peito,batimento irregular,Infarto do Miocárdio
+dor retroesternal,irradiação para o braço,Infarto do Miocárdio
+desconforto no peito,suor frio,Infarto do Miocárdio
+opressão torácica,mal-estar geral,Infarto do Miocárdio
+dor em aperto,náusea e vômito,Infarto do Miocárdio
+dor no peito que não melhora,ansiedade,Infarto do Miocárdio
+cansaço constante,fadiga,Insuficiência Cardíaca
+inchaço nos tornozelos,cansaço,Insuficiência Cardíaca
+falta de ar ao deitar,edema,Insuficiência Cardíaca
+necessidade de elevar a cabeça para dormir,dispneia,Insuficiência Cardíaca
+cansaço ao fazer esforço leve,inchaço nos pés,Insuficiência Cardíaca
+fadiga constante,ganho de peso rápido,Insuficiência Cardíaca
+edema nos membros inferiores,cansaço,Insuficiência Cardíaca
+falta de ar em repouso,inchaço abdominal,Insuficiência Cardíaca
+tosse noturna,fadiga,Insuficiência Cardíaca
+dificuldade para dormir deitado,pernas inchadas,Insuficiência Cardíaca
+coração acelerado,fraqueza,Insuficiência Cardíaca
+dispneia aos esforços,edema maleolar,Insuficiência Cardíaca
+intolerância ao exercício,cansaço,Insuficiência Cardíaca
+barriga inchada,falta de ar,Insuficiência Cardíaca
+urina escura,inchaço nas pernas,Insuficiência Cardíaca
+falta de ar,dificuldade para respirar,Angina
+dor no peito ao esforço,melhora com repouso,Angina
+aperto no peito ao caminhar,alívio ao parar,Angina
+desconforto torácico ao estresse,melhora com nitrato,Angina
+pressão no peito ao subir escadas,cansaço,Angina
+dor no peito ao frio,falta de ar,Angina
+aperto no tórax aos esforços,irradiação para o pescoço,Angina
+dor em queimação ao esforço,alívio com repouso,Angina
+desconforto no peito em situações de estresse,tontura,Angina
+dor no peito que passa em minutos,sensação de sufocamento,Angina
+aperto peitoral ao caminhar rápido,sudorese,Angina
+sensação de peso no peito ao esforço,melhora em repouso,Angina
+dor torácica de curta duração,palpitações,Angina
+falta de ar ao subir ladeiras,desconforto no peito,Angina
+dor no peito ao acordar,irradiação para o braço,Angina
+palpitações,batimento irregular,Arritmia Cardíaca
+coração acelerado sem razão aparente,tontura,Arritmia Cardíaca
+batimento rápido do coração,desmaio,Arritmia Cardíaca
+sensação de coração pulando,falta de ar,Arritmia Cardíaca
+coração batendo forte,ansiedade,Arritmia Cardíaca
+palpitações ao repouso,mal-estar,Arritmia Cardíaca
+taquicardia,suor frio,Arritmia Cardíaca
+bradicardia,fraqueza,Arritmia Cardíaca
+coração irregular,pré-síncope,Arritmia Cardíaca
+flutter cardíaco,cansaço,Arritmia Cardíaca
+sensação de coração parado,retomada brusca,Arritmia Cardíaca
+batimentos cardíacos extras,desconforto no peito,Arritmia Cardíaca
+ritmo cardíaco irregular,fadiga,Arritmia Cardíaca
+coração acelerado à noite,insônia,Arritmia Cardíaca
+palpitações após café,ansiedade,Arritmia Cardíaca
+pressão alta,dor de cabeça,Hipertensão Arterial
+cefaleia na nuca,visão turva,Hipertensão Arterial
+dor de cabeça intensa,zumbido no ouvido,Hipertensão Arterial
+pressão elevada,sangramento nasal,Hipertensão Arterial
+cefaleia,tontura,Hipertensão Arterial
+dor na nuca ao acordar,visão embaçada,Hipertensão Arterial
+pressão alta assintomática,descoberta em check-up,Hipertensão Arterial
+fadiga,dificuldade de concentração,Hipertensão Arterial
+rubor facial,palpitações,Hipertensão Arterial
+pressão alta,falta de ar ao esforço,Hipertensão Arterial
+dor de cabeça frontal,náusea,Hipertensão Arterial
+hipertensão,alteração visual,Hipertensão Arterial
+pressão elevada,formigamento,Hipertensão Arterial
+cefaleia occipital,zumbido,Hipertensão Arterial
+visão com pontos,pressão alta,Hipertensão Arterial
+fraqueza súbita no braço,confusão mental,Acidente Vascular Cerebral
+dificuldade para falar,desvio da boca,AVC
+perda súbita de visão,cefaleia intensa,AVC
+dormência no rosto,fraqueza nos membros,AVC
+confusão mental súbita,fala arrastada,AVC
+paralisia facial,dificuldade de engolir,AVC
+cefaleia em trovoada,vômito,AVC
+perda de equilíbrio,tontura súbita,AVC
+visão dupla,dificuldade de andar,AVC
+braço ou perna que não obedece,fala incompreensível,AVC
+dormência súbita,confusão,AVC
+dificuldade para entender,fraqueza facial,AVC
+queda súbita,perda de consciência,AVC
+dificuldade para ler,visão turva,AVC
+desvio ocular,paralisia,AVC
+febre persistente,sopro cardíaco,Endocardite
+calafrios,fraqueza,Endocardite
+febre de origem indeterminada,cansaço,Endocardite
+dor nas articulações,febre,Endocardite
+manchas vermelhas nas palmas,febre,Endocardite
+nódulos dolorosos nos dedos,febre,Endocardite
+hemorragia subungueal,sopro cardíaco novo,Endocardite
+esplenomegalia,febre prolongada,Endocardite
+embolia periférica,febre,Endocardite
+hematúria,febre,Endocardite
+dor no peito que piora ao deitar,febre baixa,Pericardite
+dor torácica que melhora sentado,atrito pericárdico,Pericardite
+dor no peito ao respirar fundo,febre,Pericardite
+dor pericárdica,dispneia,Pericardite
+dor no peito posicional,mal-estar,Pericardite
+febre,palpitações,Pericardite
+dor que piora ao inspirar,fraqueza,Pericardite
+dor torácica aguda,sudorese,Pericardite
+desconforto no peito ao respirar,cansaço,Pericardite
+dor irradiando para o ombro esquerdo,febre,Pericardite
+coração dilatado,cansaço progressivo,Cardiomiopatia Dilatada
+falta de ar progressiva,inchaço nas pernas,Cardiomiopatia Dilatada
+batimento cardíaco fraco,fadiga,Cardiomiopatia Dilatada
+intolerância ao exercício,edema,Cardiomiopatia Dilatada
+palpitações,disfunção cardíaca,Cardiomiopatia Dilatada
+coração espessado,síncope,Cardiomiopatia Hipertrófica
+dor no peito ao esforço,desmaio,Cardiomiopatia Hipertrófica
+falta de ar ao esforço físico,palpitações,Cardiomiopatia Hipertrófica
+morte súbita em jovem atleta,síncope prévia,Cardiomiopatia Hipertrófica
+barulho no coração,sopro sistólico,Cardiomiopatia Hipertrófica
+dor na panturrilha,inchaço unilateral,Trombose Venosa Profunda
+vermelhidão na perna,calor local,Trombose Venosa Profunda
+perna inchada e dolorida,rigidez,Trombose Venosa Profunda
+dor ao apertar a panturrilha,edema unilateral,Trombose Venosa Profunda
+perna com veias dilatadas,dor,Trombose Venosa Profunda
+inchaço na perna após viagem longa,dor,Trombose Venosa Profunda
+pele avermelhada e quente na perna,dor intensa,Trombose Venosa Profunda
+edema com cacifo positivo,dor em repouso,Trombose Venosa Profunda
+falta de ar súbita,dor no peito ao respirar,Embolia Pulmonar
+taquicardia,tosse com sangue,Embolia Pulmonar
+dispneia aguda,dessaturação,Embolia Pulmonar
+dor pleurítica,falta de ar,Embolia Pulmonar
+síncope,falta de ar,Embolia Pulmonar
+hipoxemia,taquicardia,Embolia Pulmonar
+tosse súbita,expectoração com sangue,Embolia Pulmonar
+pressão baixa,falta de ar intensa,Embolia Pulmonar
+dor nas pernas ao caminhar,melhora com repouso,Doença Arterial Periférica
+claudicação intermitente,frio nas extremidades,Doença Arterial Periférica
+pés frios e pálidos,dor ao andar,Doença Arterial Periférica
+úlcera no pé,dor em repouso,Doença Arterial Periférica
+dormência nos pés,cianose distal,Doença Arterial Periférica
+pulso fraco no pé,dor nas pernas,Doença Arterial Periférica
+gangrena digital,dor intensa,Doença Arterial Periférica
+sopro cardíaco,síncope ao esforço,Estenose Aórtica
+dor no peito ao esforço,desmaio,Estenose Aórtica
+falta de ar progressiva,sopro sistólico,Estenose Aórtica
+tonturas ao esforço,cansaço,Estenose Aórtica
+síncope,sopro em ejeção,Estenose Aórtica
+palpitações,falta de ar,Insuficiência Aórtica
+dispneia ao esforço,sensação de coração pulsando,Insuficiência Aórtica
+pressão de pulso alargada,cansaço,Insuficiência Aórtica
+cabeça pulsando,falta de ar,Insuficiência Aórtica
+palpitações,dor no peito atípica,Prolapso da Válvula Mitral
+ansiedade,palpitações,Prolapso da Válvula Mitral
+tontura,batimento extra,Prolapso da Válvula Mitral
+fadiga,palpitações ao esforço,Prolapso da Válvula Mitral
+sopro no coração,cansaço,Insuficiência Mitral
+falta de ar ao deitar,palpitações,Insuficiência Mitral
+edema pulmonar,dispneia,Insuficiência Mitral
+fadiga progressiva,sopro holossistólico,Insuficiência Mitral
+coração irregular,fraqueza,Fibrilação Atrial
+batimentos desorganizados,falta de ar,Fibrilação Atrial
+palpitações irregulares,tontura,Fibrilação Atrial
+cansaço,batimento cardíaco caótico,Fibrilação Atrial
+falta de ar,palpitações persistentes,Fibrilação Atrial
+sensação de coração fora de ritmo,pré-síncope,Fibrilação Atrial
+coração acelerado e irregular,fraqueza,Fibrilação Atrial
+palpitações em repouso,intolerância ao esforço,Fibrilação Atrial
+bradicardia,síncope,Bloqueio Cardíaco
+coração lento,tontura ao levantar,Bloqueio Cardíaco
+batimento cardíaco lento,cansaço,Bloqueio Cardíaco
+síncope recorrente,coração lento,Bloqueio Cardíaco
+pré-síncope,fraqueza,Bloqueio Cardíaco
+síncope desencadeada por susto,palpitações,Síndrome do QT Longo
+desmaio ao nadar,coração irregular,Síndrome do QT Longo
+morte súbita em jovem,histórico familiar,Síndrome do QT Longo
+palpitações,síncope ao esforço,Síndrome do QT Longo
+inchaço nas pernas,falta de ar crônica,Cor Pulmonale
+cianose,distensão venosa jugular,Cor Pulmonale
+edema bilateral,dispneia grave,Cor Pulmonale
+fraqueza,congestão venosa,Cor Pulmonale
+dor no peito após infecção viral,cansaço,Miocardite
+palpitações após resfriado,febre baixa,Miocardite
+fadiga intensa após gripe,falta de ar,Miocardite
+dor no peito,elevação de troponina,Miocardite
+arritmia nova,febre,Miocardite
+colesterol alto,dor ao caminhar,Aterosclerose
+rigidez arterial,pressão alta,Aterosclerose
+placas nas artérias,angina,Aterosclerose
+dor nas pernas,colesterol elevado,Aterosclerose
+desmaio ao ver sangue,náusea prévia,Síncope Vasovagal
+perda de consciência após estresse,palidez,Síncope Vasovagal
+desmaio em ambiente quente,tontura prévia,Síncope Vasovagal
+síncope após longa permanência em pé,sudorese,Síncope Vasovagal
+desmaio precedido de visão escura,fraqueza,Síncope Vasovagal
+dor lancinante nas costas,pressão assimétrica,Dissecção Aórtica
+dor em rasgão no peito,irradiação para as costas,Dissecção Aórtica
+dor torácica intensa e súbita,pressão arterial diferente nos braços,Dissecção Aórtica
+dor intensa nas costas,palidez e sudorese,Dissecção Aórtica
+pulsação abdominal,dor lombar,Aneurisma Aórtico
+dor abdominal em pulsação,massa pulsátil,Aneurisma Aórtico
+dor nas costas crônica,descoberta em exame,Aneurisma Aórtico
+febre,inflamação nos vasos,Vasculite
+dor articular,manchas vermelhas,Vasculite
+insuficiência renal,hipertensão,Vasculite
+neuropatia periférica,inflamação sistêmica,Vasculite
+obesidade abdominal,pressão alta,Síndrome Metabólica
+glicemia elevada,colesterol alto,Síndrome Metabólica
+triglicérides alto,circunferência abdominal aumentada,Síndrome Metabólica
+resistência à insulina,pressão elevada,Síndrome Metabólica
+coração acelerado subitamente,retorno ao normal abrupto,Taquicardia Supraventricular
+palpitações de início e fim bruscos,tontura,Taquicardia Supraventricular
+batimento rápido regular,falta de ar,Taquicardia Supraventricular
+taquicardia paroxística,pré-síncope,Taquicardia Supraventricular
+coração acelerado e irregular,perda de consciência,Taquicardia Ventricular
+síncope,taquicardia,Taquicardia Ventricular
+palpitações graves,hipotensão,Taquicardia Ventricular
+batimento rápido grave,suor frio,Taquicardia Ventricular
+ausência de pulso,perda de consciência,Parada Cardiorrespiratória
+sem respiração,sem resposta a estímulos,Parada Cardiorrespiratória
+colapso súbito,cianose,Parada Cardiorrespiratória
+pressão muito baixa,pele fria e úmida,Choque Cardiogênico
+confusão mental,pressão arterial colapsada,Choque Cardiogênico
+pulso fraco e rápido,baixo débito cardíaco,Choque Cardiogênico
+falta de ar progressiva,fadiga ao esforço,Hipertensão Pulmonar
+síncope ao esforço,pressão elevada na artéria pulmonar,Hipertensão Pulmonar
+inchaço nas pernas,cianose labial,Hipertensão Pulmonar
+dor no peito ao esforço,tosse seca,Hipertensão Pulmonar
+falta de ar ao esforço,tosse com sangue,Estenose Mitral
+hemoptise,palpitações,Estenose Mitral
+dispneia progressiva,sopro diastólico,Estenose Mitral
+edema pulmonar,fibrilação atrial,Estenose Mitral
+cianose desde o nascimento,sopro cardíaco,Cardiopatia Congênita
+cansaço ao mamar,dificuldade de ganho de peso,Cardiopatia Congênita
+infecções respiratórias frequentes,sopro,Cardiopatia Congênita
+baqueteamento digital,cianose,Cardiopatia Congênita
+dor no peito em repouso,sem alívio com nitrato,Angina Instável
+dor no peito nova ou em piora,dura mais de 20 minutos,Angina Instável
+dor em repouso ou noturna,intensidade crescente,Angina Instável
+angina crescente,sem elevação de troponina,Angina Instável
+inchaço ao redor do olho,febre,Doença de Chagas - Fase Aguda
+cardiomegalia,arritmia,Doença de Chagas - Fase Crônica
+insuficiência cardíaca em jovem,histórico de zona rural,Doença de Chagas - Fase Crônica
+mega-esôfago,bloqueio de ramo,Doença de Chagas - Fase Crônica
+tontura ao levantar,visão turva,Hipotensão Ortostática
+desmaio ao se levantar,fraqueza,Hipotensão Ortostática
+pressão baixa em pé,palpitações,Hipotensão Ortostática
+dor no peito intensa,elevação do ST,Síndrome Coronariana Aguda
+troponina elevada,dor em repouso,Síndrome Coronariana Aguda
+dor precordial persistente,alteração no ECG,Síndrome Coronariana Aguda
