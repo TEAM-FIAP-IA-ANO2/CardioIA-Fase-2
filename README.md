@@ -28,8 +28,7 @@ CardioIA-Fase-2/
 ├── 🐍 diagnostico.py              # Código Python (versão script)
 ├── 📓 diagnostico_parte1.ipynb    # Jupyter Notebook com outputs gravados
 │
-├── [Em breve] parte2/             # Parte 2 – Modelo de Classificação ML
-└── [Em breve] parte3/             # Parte 3 – Análise de Viés e Governança
+└── [Em breve] parte2/             # Parte 2 – Modelo de Classificação ML
 ```
 
 ---
@@ -93,13 +92,6 @@ Esta parte utilizará o dataset cardiovascular da Fase 1 (500 registros) para tr
 
 ---
 
-## 🔜 Parte 3 – Análise de Viés e Governança em IA
-
-> 🚧 **Em desenvolvimento**
-
-Reflexão aprofundada sobre qualidade dos dados, potenciais vieses do modelo (demográficos, linguísticos, regionais) e boas práticas de governança para sistemas de IA aplicados à saúde.
-
----
 
 ## ⚖️ Governança de Dados e Viés em IA
 
@@ -135,4 +127,4 @@ Mesmo na Parte 1, já identificamos limitações importantes que devem ser consi
 
 ---
 
-*CardioIA – Grupo 69 | FIAP 2025*
+*CardioIA – Grupo 69 | FIAP 2026*
