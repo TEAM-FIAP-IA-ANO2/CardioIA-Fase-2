@@ -4,12 +4,15 @@
 # =============================================================
 
 import csv
+import os
 import re
+
+_BASE = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'dataset')
 
 # -----------------------------------------------------------
 # 1. Carregar o mapa de conhecimento (CSV)
 # -----------------------------------------------------------
-def carregar_mapa(caminho_csv='mapa_conhecimento.csv'):
+def carregar_mapa(caminho_csv=os.path.join(_BASE, 'mapa_conhecimento.csv')):
     """
     Lê o arquivo CSV e retorna uma lista de dicionários com
     os campos: sintoma1, sintoma2, doenca_associada.
@@ -28,7 +31,7 @@ def carregar_mapa(caminho_csv='mapa_conhecimento.csv'):
 # -----------------------------------------------------------
 # 2. Carregar as frases de sintomas (TXT)
 # -----------------------------------------------------------
-def carregar_frases(caminho_txt='sintomas_frases.txt'):
+def carregar_frases(caminho_txt=os.path.join(_BASE, 'sintomas_frases.txt')):
     """
     Lê o arquivo TXT e retorna uma lista de frases limpas.
     """
@@ -82,8 +85,8 @@ def identificar_sintomas_e_diagnostico(frase, mapa):
 # -----------------------------------------------------------
 # 4. Executar análise para todas as frases
 # -----------------------------------------------------------
-def analisar_frases(caminho_txt='sintomas_frases.txt',
-                    caminho_csv='mapa_conhecimento.csv'):
+def analisar_frases(caminho_txt=os.path.join(_BASE, 'sintomas_frases.txt'),
+                    caminho_csv=os.path.join(_BASE, 'mapa_conhecimento.csv')):
     mapa   = carregar_mapa(caminho_csv)
     frases = carregar_frases(caminho_txt)
 
