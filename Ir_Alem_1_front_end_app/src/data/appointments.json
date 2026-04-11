@@ -1,0 +1,57 @@
+[
+  {
+    "id": "AGN-001",
+    "pacienteId": "PAC-0001",
+    "pacienteNome": "Ana Clara Mendes",
+    "data": "2026-04-15",
+    "horario": "09:00",
+    "medico": "Dr. Carlos Andrade",
+    "tipo": "Consulta de Rotina",
+    "status": "Agendado",
+    "observacoes": "Revisão de medicamentos anti-hipertensivos e acompanhamento glicêmico"
+  },
+  {
+    "id": "AGN-002",
+    "pacienteId": "PAC-0002",
+    "pacienteNome": "Roberto Silva Santos",
+    "data": "2026-04-16",
+    "horario": "14:30",
+    "medico": "Dra. Fernanda Lima",
+    "tipo": "Retorno",
+    "status": "Confirmado",
+    "observacoes": "Avaliação pós-cateterismo e ajuste de anticoagulantes"
+  },
+  {
+    "id": "AGN-003",
+    "pacienteId": "PAC-0004",
+    "pacienteNome": "José Carlos Pereira",
+    "data": "2026-04-17",
+    "horario": "10:00",
+    "medico": "Dr. Carlos Andrade",
+    "tipo": "Ecocardiograma",
+    "status": "Agendado",
+    "observacoes": "Avaliação da fração de ejeção ventricular"
+  },
+  {
+    "id": "AGN-004",
+    "pacienteId": "PAC-0006",
+    "pacienteNome": "Paulo Henrique Souza",
+    "data": "2026-04-18",
+    "horario": "08:30",
+    "medico": "Dr. Marcelo Oliveira",
+    "tipo": "Holter 24h",
+    "status": "Confirmado",
+    "observacoes": "Monitoramento de arritmia durante atividades cotidianas"
+  },
+  {
+    "id": "AGN-005",
+    "pacienteId": "PAC-0010",
+    "pacienteNome": "Eduardo Teixeira Alves",
+    "data": "2026-04-14",
+    "horario": "11:00",
+    "medico": "Dr. Ricardo Moraes",
+    "tipo": "Teste Ergométrico",
+    "status": "Realizado",
+    "observacoes": "Teste de esforço para avaliação de capacidade funcional"
+  }
+]

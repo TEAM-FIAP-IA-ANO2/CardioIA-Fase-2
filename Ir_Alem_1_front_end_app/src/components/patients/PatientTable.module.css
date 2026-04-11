@@ -1,0 +1,87 @@
+.wrapper {
+  overflow-x: auto;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--color-border);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+}
+
+.th {
+  padding: 12px 14px;
+  text-align: left;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--color-text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  background: var(--color-bg);
+  border-bottom: 1px solid var(--color-border);
+  cursor: pointer;
+  white-space: nowrap;
+  user-select: none;
+}
+
+.th:hover {
+  color: var(--color-text-primary);
+}
+
+.sortIcon {
+  margin-left: 4px;
+  opacity: 0.5;
+}
+
+.row {
+  border-bottom: 1px solid var(--color-border);
+  transition: background var(--transition);
+}
+
+.row:last-child {
+  border-bottom: none;
+}
+
+.row:hover {
+  background: var(--color-bg);
+}
+
+.row td {
+  padding: 12px 14px;
+  color: var(--color-text-secondary);
+  vertical-align: middle;
+}
+
+.tdMono {
+  font-family: monospace;
+  font-size: 11px !important;
+  color: var(--color-text-muted) !important;
+}
+
+.tdName {
+  font-weight: 500;
+  color: var(--color-text-primary) !important;
+  white-space: nowrap;
+}
+
+.tdDoctor {
+  font-size: 12px !important;
+  color: var(--color-secondary) !important;
+}
+
+.detailBtn {
+  background: var(--color-secondary-light);
+  color: var(--color-secondary);
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 4px 12px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background var(--transition);
+}
+
+.detailBtn:hover {
+  background: #bee3f8;
+}
