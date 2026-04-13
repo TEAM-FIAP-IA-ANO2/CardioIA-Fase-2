@@ -184,7 +184,7 @@ Mesmo na Parte 1, já identificamos limitações importantes que devem ser consi
 
 ---
 
-## 👥 Equipe – Grupo 69
+## 👥 Equipe – Grupo 59
 
 | Nome | RM |
 |---|---|
