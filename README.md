@@ -207,4 +207,4 @@ Mesmo na Parte 1, já identificamos limitações importantes que devem ser consi
 
 ---
 
-*CardioIA – Grupo 69 | FIAP 2026*
+*CardioIA – Grupo 59 | FIAP 2026*
