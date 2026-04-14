@@ -6,16 +6,6 @@ O projeto explora conceitos do CardioIA aplicados ao diagnóstico visual, demons
 
 ---
 
-## 🎥 Demonstração em Vídeo
-**[Insira aqui o link do seu vídeo Não Listado no YouTube]**
-
-No vídeo acima, explico:
-- O dataset utilizado e a lógica de pré-processamento.
-- A arquitetura da rede neural construída com Keras.
-- A análise dos resultados e da matriz de confusão.
-
----
-
 ## 🚀 O Desafio do Pré-processamento: De Série Temporal para Imagem
 
 O escopo do projeto exigia o processamento de imagens (com etapas de redimensionamento e conversão). No entanto, o dataset público escolhido (`shayanfazeli/heartbeat` - PTB Diagnostic ECG Database) fornece dados vetorizados em formato CSV (séries temporais 1D de 187 pontos).
@@ -25,8 +15,7 @@ Para cumprir os requisitos de diagnóstico **visual** sem trocar de dataset, foi
 2. **Reshape:** O vetor de 196 pontos foi redimensionado para uma **matriz 2D de 14x14**.
 3. **Representação Visual:** Essa matriz atua perfeitamente como uma "imagem em tons de cinza" de 14x14 pixels, onde cada "pixel" representa a intensidade elétrica do sinal naquele instante.
 
-![Exemplo de ECG transformado em Imagem 14x14](caminho/para/sua/imagem.png) 
-*(Dica: Salve a imagem gerada na Célula 3 do notebook na pasta do repositório e atualize este link)*
+![Exemplo de ECG transformado em Imagem 14x14](Ir_além_2_Diagnóstico_Por_Imagem\assets\imagem_redmensionada) 
 
 ---
 
