@@ -41,11 +41,6 @@ O modelo foi treinado por 20 épocas e atingiu excelentes métricas de avaliaç�
 - **Acurácia Global:** ~94%
 - O modelo demonstra alta capacidade de identificar anomalias reais, errando pouquíssimas vezes a classificação (falsos positivos/negativos minimizados).
 
-### Matriz de Confusão
-*(Dica: Você pode adicionar um print da matriz de confusão gerada pelo código aqui)*
-
----
-
 ## 🛠️ Como Executar o Projeto
 
 **Pré-requisitos:**
